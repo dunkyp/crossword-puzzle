@@ -1,0 +1,42 @@
+@google-font Raleway 200;
+@google-font Lora 400;
+
+.square-white {
+  fill: white;
+  stroke: black;
+}
+
+.square-white.active {
+  stroke-width: 3px;
+}
+
+.square-black {
+  fill: black;
+  stroke: black;
+}
+
+.square-label {
+  font-family: 'Raleway';
+  font-size: x-small;
+}
+
+.square-text {
+  font-family: 'Lora';
+  font-size: 150%;
+}
+
+.highlight {
+  stroke-width: 4px;
+  stroke: orange;
+}
+
+svg {
+  background: transparent;
+}
+
+.board {
+  width: 50%;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 1em;
+}

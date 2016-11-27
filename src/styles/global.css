@@ -1,0 +1,12 @@
+.crossword {
+  height: 450px;
+}
+
+h3,
+h2 {
+  text-align: center;
+}
+
+h2 {
+  font-size: 180%;
+}

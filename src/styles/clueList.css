@@ -1,0 +1,32 @@
+@google-font Lora 400;
+
+.clue-list {
+  font-family: 'Lora';
+  width: 50%;
+  display: inline-block;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.clue-list.active {
+  font-weight: bold;
+}
+
+.clue-number {
+  padding-right: 1em;
+  font-weight: bold;
+  width: 4em;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.clue-text {
+  display: inline-block;
+  width: 80%;
+  cursor: pointer
+}
+
+.clue-text.active {
+  font-weight: bold;
+}
