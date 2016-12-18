@@ -10,6 +10,9 @@ export default class BoardView extends React.Component<{boardState : BoardState}
     event.stopPropagation();
     if(event.keyCode > 47 && event.keyCode < 91)
       this.props.boardState.addLetter(String.fromCharCode(event.keyCode).toUpperCase());
+    else if(event.keyCode == 8) {
+      this.props.boardState.addLetter('');
+    }
   }
 
   componentDidMount() {

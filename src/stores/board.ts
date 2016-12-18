@@ -80,7 +80,11 @@ export default class BoardState {
       }
       if(found)break;
     }
-    this.activeSquare += inc;
+    debugger;
+    if(letter == '')
+      this.activeSquare -= inc;
+    else
+      this.activeSquare += inc;
   }
 
   constructor(crossword) {
