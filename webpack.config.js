@@ -23,10 +23,10 @@ module.exports = {
     },
     {
       test:   /\.css$/,
-      loader: "style-loader!css-loader!postcss-loader"
+      loaders: [
+          'style-loader',
+          'css-loader'
+      ]
     }]
-  },
-  postcss: function() {
-    return [require('autoprefixer'), require('precss'), require('postcss-google-font')];
   }
 };
