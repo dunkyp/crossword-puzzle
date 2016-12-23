@@ -1,0 +1,523 @@
+{
+  "clues": [
+    {
+      "answerLengths": [
+        4,
+        4
+      ],
+      "starts": [
+        0,
+        4
+      ],
+      "numbers": [
+        1,
+        3
+      ],
+      "clue": "Puggish feature of bonuses distributed and reduced internally",
+      "directions": [
+        "D",
+        "D"
+      ],
+      "answers": [
+        "SNUB",
+        "NOSE"
+      ]
+    },
+    {
+      "answerLengths": [
+        8,
+        8
+      ],
+      "starts": [
+        2,
+        117
+      ],
+      "numbers": [
+        2,
+        21
+      ],
+      "clue": "She would ineptly get players into bad habits",
+      "directions": [
+        "D",
+        "D"
+      ],
+      "answers": [
+        "WARDROBE",
+        "MISTRESS"
+      ]
+    },
+    {
+      "answerLengths": [
+        8
+      ],
+      "starts": [
+        6
+      ],
+      "numbers": [
+        4
+      ],
+      "clue": "Oh, to be back in New Circle Cross",
+      "directions": [
+        "D"
+      ],
+      "answers": [
+        "CHOLERIC"
+      ]
+    },
+    {
+      "answerLengths": [
+        6
+      ],
+      "starts": [
+        8
+      ],
+      "numbers": [
+        5
+      ],
+      "clue": "Be more ingenious than blooming joker",
+      "directions": [
+        "D"
+      ],
+      "answers": [
+        "OUTWIT"
+      ]
+    },
+    {
+      "answerLengths": [
+        10
+      ],
+      "starts": [
+        10
+      ],
+      "numbers": [
+        6
+      ],
+      "clue": "Coming to a stop, pretty high on drugs?",
+      "directions": [
+        "D"
+      ],
+      "answers": [
+        "FETCHINGUP"
+      ]
+    },
+    {
+      "answerLengths": [
+        4
+      ],
+      "starts": [
+        14
+      ],
+      "numbers": [
+        8
+      ],
+      "clue": "How annoying to be turned over for lead",
+      "directions": [
+        "D"
+      ],
+      "answers": [
+        "STAR"
+      ]
+    },
+    {
+      "answerLengths": [
+        5,
+        6
+      ],
+      "starts": [
+        75,
+        12
+      ],
+      "numbers": [
+        13,
+        7
+      ],
+      "clue": "Idle person with set habit needs analyst's aid \"Doctor too pat\"",
+      "directions": [
+        "D",
+        "D"
+      ],
+      "answers": [
+        "COUCH",
+        "POTATO"
+      ]
+    },
+    {
+      "answerLengths": [
+        5
+      ],
+      "starts": [
+        15
+      ],
+      "numbers": [
+        9
+      ],
+      "clue": "Marsh ground in Goa?",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "NGAIO"
+      ]
+    },
+    {
+      "answerLengths": [
+        9
+      ],
+      "starts": [
+        21
+      ],
+      "numbers": [
+        10
+      ],
+      "clue": "Exploitation by commanding officer, one in sizzling casual wear",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "HOUSECOAT"
+      ]
+    },
+    {
+      "answerLengths": [
+        9
+      ],
+      "starts": [
+        45
+      ],
+      "numbers": [
+        11
+      ],
+      "clue": "Close associate's bottom sagged -- that's painful!",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "BEDFELLOW"
+      ]
+    },
+    {
+      "answerLengths": [
+        5,
+        6
+      ],
+      "starts": [
+        55,
+        137
+      ],
+      "numbers": [
+        12,
+        23
+      ],
+      "clue": "One with an agenda -- hacking car phones with iridium implant",
+      "directions": [
+        "A",
+        "D"
+      ],
+      "answers": [
+        "CHAIR",
+        "PERSON"
+      ]
+    },
+    {
+      "answerLengths": [
+        7
+      ],
+      "starts": [
+        75
+      ],
+      "numbers": [
+        13
+      ],
+      "clue": "Line in mate's clothing",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "CLOBBER"
+      ]
+    },
+    {
+      "answerLengths": [
+        7
+      ],
+      "starts": [
+        83
+      ],
+      "numbers": [
+        15
+      ],
+      "clue": "Died wearing examination supports",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "TRIPODS"
+      ]
+    },
+    {
+      "answerLengths": [
+        5
+      ],
+      "starts": [
+        105
+      ],
+      "numbers": [
+        17
+      ],
+      "clue": "Studendous housing tip",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "UPEND"
+      ]
+    },
+    {
+      "answerLengths": [
+        5
+      ],
+      "starts": [
+        115
+      ],
+      "numbers": [
+        20
+      ],
+      "clue": "Soup from rounded, duck-black vessel",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "GUMBO"
+      ]
+    },
+    {
+      "answerLengths": [
+        7
+      ],
+      "starts": [
+        135
+      ],
+      "numbers": [
+        22
+      ],
+      "clue": "Keen to go having been needled?",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "HYPEDUP"
+      ]
+    },
+    {
+      "answerLengths": [
+        7
+      ],
+      "starts": [
+        143
+      ],
+      "numbers": [
+        25
+      ],
+      "clue": "Act of sleeping produced by bad opera's length!",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "REPOSAL"
+      ]
+    },
+    {
+      "answerLengths": [
+        5
+      ],
+      "starts": [
+        165
+      ],
+      "numbers": [
+        26
+      ],
+      "clue": "Collective curios mostly outrival returns",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "VIRTU"
+      ]
+    },
+    {
+      "answerLengths": [
+        9
+      ],
+      "starts": [
+        171
+      ],
+      "numbers": [
+        27
+      ],
+      "clue": "Making tiger come out of a pyramid, say",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "GEOMETRIC"
+      ]
+    },
+    {
+      "answerLengths": [
+        9
+      ],
+      "starts": [
+        195
+      ],
+      "numbers": [
+        30
+      ],
+      "clue": "Admirable features, thorough observations",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "GOODLOOKS"
+      ]
+    },
+    {
+      "answerLengths": [
+        5
+      ],
+      "starts": [
+        205
+      ],
+      "numbers": [
+        31
+      ],
+      "clue": "One seen in rushes of movie, ultimately eaten by plant?",
+      "directions": [
+        "A"
+      ],
+      "answers": [
+        "MOSES"
+      ]
+    },
+    {
+      "answerLengths": [
+        10
+      ],
+      "starts": [
+        79
+      ],
+      "numbers": [
+        14
+      ],
+      "clue": "One physically representing an actor needs stiff drink of spirits",
+      "directions": [
+        "D"
+      ],
+      "answers": [
+        "BODYDOUBLE"
+      ]
+    },
+    {
+      "answerLengths": [
+        5,
+        6
+      ],
+      "starts": [
+        89,
+        141
+      ],
+      "numbers": [
+        16,
+        24
+      ],
+      "clue": "Homer's after second cutter, say, for grass",
+      "directions": [
+        "D",
+        "D"
+      ],
+      "answers": [
+        "STOOL",
+        "PIGEON"
+      ]
+    },
+    {
+      "answerLengths": [
+        8
+      ],
+      "starts": [
+        113
+      ],
+      "numbers": [
+        19
+      ],
+      "clue": "Old, much performed piece? Actually, a modern bit",
+      "directions": [
+        "D"
+      ],
+      "answers": [
+        "WARHORSE"
+      ]
+    },
+    {
+      "answerLengths": [
+        4
+      ],
+      "starts": [
+        165
+      ],
+      "numbers": [
+        26
+      ],
+      "clue": "Greens commonly associated with top grade star",
+      "directions": [
+        "D"
+      ],
+      "answers": [
+        "VEGA"
+      ]
+    },
+    {
+      "answerLengths": [
+        4
+      ],
+      "starts": [
+        175
+      ],
+      "numbers": [
+        28
+      ],
+      "clue": "Oscar's equivalent of a thief's aid (not jack)",
+      "directions": [
+        "D"
+      ],
+      "answers": [
+        "EMMY"
+      ]
+    },
+    {
+      "answerLengths": [
+        4,
+        3
+      ],
+      "starts": [
+        179,
+        111
+      ],
+      "numbers": [
+        29,
+        18
+      ],
+      "clue": "\"Nice little earner\" from bread and milk supplier",
+      "directions": [
+        "D",
+        "A"
+      ],
+      "answers": [
+        "CASH",
+        "COW"
+      ]
+    }
+  ],
+  "size": 15,
+  "author": "Brummie",
+  "title": "25,859"
+}
